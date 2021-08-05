@@ -1,4 +1,4 @@
-# Nombre de mi proyecto 
+# Walle
 
 
 ## Integrantes:
@@ -9,6 +9,6 @@
 
 ### Tematica:
 
-* xyz
+* Queremos reducir la densidad de basura de los tiraderos creando una máquina que pueda separar los materiales para crear otro tipo de material
 
 ### 
