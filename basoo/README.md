@@ -1,11 +1,12 @@
-# Nombre de mi proyecto 
+# Basoo
 
 
 ## Integrantes:
 
-* Roberta Schroeder
-* Maya Ortiz
-* Amanda Fernandez
+* Renata Flores
+* Ana Berrón
+* Sofía Sanchez
+* Isabel Acedo
 
 ### Tematica:
 
