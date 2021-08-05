@@ -10,6 +10,7 @@
 
 ### Tematica:
 
-* xyz
+* Sistema de separación, compresión y recolección de basura. 
 
-### 
+
+
