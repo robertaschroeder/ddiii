@@ -2,8 +2,9 @@
 
 ## Integrantes:
 
-* Michel Ventura
-* ABC XYZ
+* Roberta Schroeder
+* Maya Ortiz
+* Amanda Fernandez
 
 ### Tematica:
 
