@@ -1,14 +1,15 @@
-# Nombre de mi proyecto 
+# Neurolax 
 
 
 ## Integrantes:
 
-* Roberta Schroeder
-* Maya Ortiz
-* Amanda Fernandez
+* Alejandra Terrazas
+* Paola Aquino
+* Lucia Galindo
+* Isabel Brocado
 
 ### Tematica:
 
-* xyz
+* Es una cápsula que llega hasta el cerebro.Desinflamando y permitiendo que nuestra neurona sensorial.
 
-### 
+
