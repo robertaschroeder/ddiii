@@ -1,14 +1,7 @@
-# Nombre de mi proyecto 
+# Proyectos de DD III
 
+## Equipos:
 
-## Integrantes:
-
-* Roberta Schroeder
-* Maya Ortiz
-* Amanda Fernandez
-
-### Tematica:
-
-* xyz
-
-### 
+* Neurolax
+* Basoo
+* Wallee
